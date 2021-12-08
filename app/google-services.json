@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38592162926",
+    "firebase_url": "https://sosial-media-9a2dc.firebaseio.com",
+    "project_id": "sosial-media-9a2dc",
+    "storage_bucket": "sosial-media-9a2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38592162926:android:3c4ecc64343ce09c004a7f",
+        "android_client_info": {
+          "package_name": "com.dzakyhdr.instagran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38592162926-08igflr00gu8ufo59cpfa1okmcc07ld7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dzakyhdr.instagran",
+            "certificate_hash": "044d26826742ddba78ad9fddac1d91bfd6580ac4"
+          }
+        },
+        {
+          "client_id": "38592162926-t88gkldepo05v5n7b3136v4t9jf4dgsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVGjmd8psFhY3vitacEFa7oF0QCO6YpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38592162926-t88gkldepo05v5n7b3136v4t9jf4dgsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

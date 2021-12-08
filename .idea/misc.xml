@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../Idngram/app/src/main/res/layout/activity_account_setting.xml" value="0.33587533827107174" />
+        <entry key="../Idngram/app/src/main/res/layout/activity_comments.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="../Idngram/app/src/main/res/layout/activity_main.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/activity_register.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/activity_tambah_post.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/comment_item_layout.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/fragment_home.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/fragment_notification.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/fragment_profile.xml" value="0.24138323224603317" />
+        <entry key="../Idngram/app/src/main/res/layout/fragment_search.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/item_layout_post_profile.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/layout/post_layout.xml" value="0.21181593353734832" />
+        <entry key="../Idngram/app/src/main/res/layout/user_item_layout.xml" value="0.21693840579710144" />
+        <entry key="../Idngram/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3098958333333333" />
+        <entry key="../Idngram/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.27314814814814814" />
+        <entry key="../Idngram/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.27314814814814814" />
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/button_black_background.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/buttons_background.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/facebook_button_bg.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/inputs_background.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/layout/activity_account_setting.xml" value="0.19851048244830044" />
+        <entry key="app/src/main/res/layout/activity_comments.xml" value="0.18200012137416358" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/activity_tambah_post.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/comment_item_layout.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/fragment_notification.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/item_layout_post_profile.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/post_layout.xml" value="0.5165594697972391" />
+        <entry key="app/src/main/res/layout/user_item_layout.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
