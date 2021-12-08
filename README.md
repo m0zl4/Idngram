@@ -1,7 +1,7 @@
 # Idngram
-Final SKL
+Final SKL Android
 
-Nama Anggota;
+Nama-nama Anggota;
 Muhammad Abdul Latief
 Muhammad Azzam Albana
 Tsaqif Ammar Makmun
